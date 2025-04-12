@@ -1,0 +1,17 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "This project is a full-stack web application that displays real-time weather information for any city using the OpenWeatherMap API. Users can search for a city's weather, and the app returns details such as temperature, weather condition, humidity, and wind speed.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}
